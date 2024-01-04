@@ -1,4 +1,4 @@
-# AI Diagnosis using Cough Audio
+# AI Diagnosis using Cough Audio [paper](https://jst-haui.vn/media/31/uffile-upload-no-title31271.pdf)
 
 
 ### Cài đặt môi trường với Pycharm:
